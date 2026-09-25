@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ejecutable_corte2.dir/src/main.cpp.o CMakeFiles/ejecutable_corte2.dir/src/Sphere.cpp.o CMakeFiles/ejecutable_corte2.dir/src/robot_simulator.cpp.o CMakeFiles/ejecutable_corte2.dir/src/queen_attack.cpp.o CMakeFiles/ejecutable_corte2.dir/src/twitter.cpp.o CMakeFiles/ejecutable_corte2.dir/src/spreadsheet.cpp.o -o ejecutable_corte2 

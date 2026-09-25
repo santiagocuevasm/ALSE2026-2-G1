@@ -1,0 +1,3 @@
+/home/reyser/corte2_ent2/build/CMakeFiles/ejecutable_corte2.dir
+/home/reyser/corte2_ent2/build/CMakeFiles/edit_cache.dir
+/home/reyser/corte2_ent2/build/CMakeFiles/rebuild_cache.dir
