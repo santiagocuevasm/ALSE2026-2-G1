@@ -1,0 +1,4 @@
+this is an example file for ALSE, ediiting this line
+adding 1 line
+adding 2 lines
+adding 3 lines
